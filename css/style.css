@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-family: 'DM Serif Text', serif;
+}
+.announcement p{
+    margin-bottom: 0px !important;
+}
+.manubar{
+    background-color: #004AAD;
+}
+.tool{
+    color:#F6D407;
+    font-size:30px;
+}
+.logo{
+    margin:0px;
+    padding: 0px;
+
+}
+.logo-name{
+    color: white;
+
+ 
+}
+.manu ul li a{
+    color:white !important;
+    padding: 10px;
+    font-size:18px;
+}
+.call{
+    color: white;
+}
+.banner{
+    background: url(../images/handyman\ heroback.png);
+    background-size:100% 100%;
+    padding-top:100px;
+}
+.hero-items{
+  
+}
+.hero-content{
+    width : 65%;
+    margin-top: 50px;
+}
+.hero-button{
+    padding: 10px;
+    background: #004AAD ;
+    color:white;
+    font-size: 18px;
+    border: 1px solid #F6D407 ;
+    border-radius: 15px;
+    width:150px;
+}
+.hero-img{
+    margin-top: 30px;
+}
+.img1{
+    width: 50px;
+    height:50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.img2{
+    margin-left: -20px;
+}
+.img-text{
+    font-size: 25px;
+    color: #004AAD;
+    padding-top: 5px;
+    font-weight: 700;
+}
